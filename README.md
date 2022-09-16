@@ -1,7 +1,7 @@
-## findMyCheapestPCGame
+# findMyCheapestPCGame
+## Web application that fetches the top 3 cheapest vendors for PC game, dlc or pack that is searched
 
-
-
+![findmycheapestpcgame](https://user-images.githubusercontent.com/67913300/190693462-f74c65ff-dc5a-4f23-a943-06a5d6498414.PNG)
 
 
 # Getting Started with Create React App
